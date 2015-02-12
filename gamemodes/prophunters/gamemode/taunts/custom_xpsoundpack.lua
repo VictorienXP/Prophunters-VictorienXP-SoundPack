@@ -109,3 +109,6 @@ addTaunt("Les Animaux du Monde [XPSP]", {
 addTaunt("Oui je me balance ! [XPSP]", {
 	"prophunters/xpsoundpack/oui_je_me_balance.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 8.5)
+addTaunt("Epic Saxo Guy [XPSP]", {
+	"prophunters/xpsoundpack/saxo.mp3"
+}, "props", nil, {"music", "XPSoundPack"}, 7.38)
