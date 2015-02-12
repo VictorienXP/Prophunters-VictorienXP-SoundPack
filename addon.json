@@ -1,0 +1,13 @@
+{
+	"title"		:	"Prophunters Xperidia's SoundPack",
+	"type"		:	"servercontent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"desktop.ini",
+		"Thumbs.db"
+	]
+}
