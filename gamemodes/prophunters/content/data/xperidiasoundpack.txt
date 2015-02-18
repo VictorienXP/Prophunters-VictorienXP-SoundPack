@@ -39,6 +39,8 @@ hey.mp3 : https://www.youtube.com/watch?v=mBw3qzf4s18
 
 identifierentoi.mp3 : https://www.youtube.com/watch?v=rqzFelV8J9E
 
+illuminati.mp3 : https://soundcloud.com/anonjohn33/anonymous-illuminati
+
 je_code_avec_le_cul.mp3 : https://www.youtube.com/watch?v=aeePeVUW6-k
 
 je_le_savais_bien_que.mp3 : https://soundcloud.com/penofchaos/donjon-de-naheulbeuk-pisode-02
