@@ -118,6 +118,6 @@ addTaunt("Pink Fluffy Unicorn [XPSP]", {
 addTaunt("Illuminati [XPSP]", {
 	"prophunters/xpsoundpack/illuminati.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 1.99)
-addTaunt("WTF,It's a Dinausor [XPSP]", {
+addTaunt("WTF,It's a Dinosaur [XPSP]", {
 	"prophunters/xpsoundpack/wtfdinosaur.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 20.20)
