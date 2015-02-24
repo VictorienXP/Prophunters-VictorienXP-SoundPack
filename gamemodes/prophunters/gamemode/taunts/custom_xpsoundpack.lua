@@ -119,5 +119,5 @@ addTaunt("Illuminati [XPSP]", {
 	"prophunters/xpsoundpack/illuminati.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 1.99)
 addTaunt("WTF,It's a Dinausor [XPSP]", {
-	"prophunters/xpsoundpack/WTF,It's a Dinausor.mp3"
+	"prophunters/xpsoundpack/wtfdinosaur.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 20.20)
