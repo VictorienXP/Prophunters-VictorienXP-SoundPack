@@ -124,3 +124,15 @@ addTaunt("WTF,It's a Dinosaur [XPSP]", {
 addTaunt("Pouce Rouge [XPSP]", {
 	"prophunters/xpsoundpack/pouce_rouge.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 8.31)
+addTaunt("Lapin du métro [XPSP]", {
+	"prophunters/xpsoundpack/lapin_du_métro.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 3.30)
+addTaunt("Numnumnum [XPSP]", {
+	"prophunters/xpsoundpack/numnumnum.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 8.64)
+addTaunt("Plume TDC [XPSP]", {
+	"prophunters/xpsoundpack/plume_dtc.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 4.97)
+addTaunt("Yes! [XPSP]", {
+	"prophunters/xpsoundpack/yes.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 5.25)
