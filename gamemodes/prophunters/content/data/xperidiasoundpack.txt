@@ -1,4 +1,4 @@
-﻿This addon (Prophunters Xperidia's SoundPack) was made by VictorienXP with the help of Xperidia's Community www.Xperidia.com
+﻿This addon (Prophunters Xperidia's SoundPack) was made by Xperidia
 
 
 Sounds/musics used:
@@ -67,7 +67,13 @@ oui_je_me_balance.mp3 : François Pérusse
 
 penis&yaourt.mp3 : https://www.youtube.com/watch?v=CjsPSeupj2w
 
+petitecoquine.mp3 : Supergirl
+
+philippe.mp3 : Hitman le Cobra
+
 pinkfluffy_unicorn.mp3 : http://youtu.be/eWM2joNb9NE
+
+plier_une_barre_en_fer.mp3 : https://youtu.be/M_bUBQ-gzhU
 
 plume_dtc.mp3 : https://youtu.be/TTiPZeCkiBc
 

@@ -1,6 +1,6 @@
 addTaunt("Coucou tu veux voir ma bite ? [XPSP]", {
 	"prophunters/xpsoundpack/coucou_tu_veux_voir_ma_bite.wav"
-}, "both", "both", {"talk", "XPSoundPack"})
+}, "props", "both", {"talk", "XPSoundPack"})
 addTaunt("What is love [XPSP]", {
 	"prophunters/xpsoundpack/what_is_love.mp3"
 }, "props", nil, {"music", "XPSoundPack"}, 15.5)
@@ -125,14 +125,23 @@ addTaunt("Pouce Rouge [XPSP]", {
 	"prophunters/xpsoundpack/pouce_rouge.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 8.31)
 addTaunt("Lapin du métro [XPSP]", {
-	"prophunters/xpsoundpack/lapin_du_métro.mp3"
-}, "props", both, {"talk", "XPSoundPack"}, 3.30)
+	"prophunters/xpsoundpack/lapin_du_metro.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 3.20)
 addTaunt("Numnumnum [XPSP]", {
 	"prophunters/xpsoundpack/numnumnum.mp3"
-}, "props", both, {"talk", "XPSoundPack"}, 8.64)
-addTaunt("Plume TDC [XPSP]", {
+}, "props", both, {"talk", "XPSoundPack"}, 4.5)
+addTaunt("Plume DTC [XPSP]", {
 	"prophunters/xpsoundpack/plume_dtc.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 4.97)
 addTaunt("Yes! [XPSP]", {
 	"prophunters/xpsoundpack/yes.mp3"
-}, "props", both, {"talk", "XPSoundPack"}, 5.25)
+}, "both", both, {"talk", "XPSoundPack"}, 5.25)
+addTaunt("Philippe ! [XPSP]", {
+	"prophunters/xpsoundpack/philippe.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 10)
+addTaunt("Plier une barre en fer [XPSP]", {
+	"prophunters/xpsoundpack/plier_une_barre_en_fer.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 4)
+addTaunt("Petite coquine [XPSP]", {
+	"prophunters/xpsoundpack/petitecoquine.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.5)
