@@ -1,1 +1,1 @@
-resource.AddWorkshop( "271944989" )
+if engine.ActiveGamemode()=="prophunters" then resource.AddWorkshop( "271944989" ) end
