@@ -145,3 +145,27 @@ addTaunt("Plier une barre en fer [XPSP]", {
 addTaunt("Petite coquine [XPSP]", {
 	"prophunters/xpsoundpack/petitecoquine.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 1.5)
+addTaunt("Cuir Moustache [XPSP]", {
+	"prophunters/xpsoundpack/cuir_moustache.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.68)
+addTaunt("Dash vents [XPSP]", {
+	"prophunters/xpsoundpack/dashing_through_the_vents.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 3.58)
+addTaunt("Hello Kiki [XPSP]", {
+	"prophunters/xpsoundpack/hello_kiki.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 4.10)
+addTaunt("Kant je la vois [XPSP]", {
+	"prophunters/xpsoundpack/kant_je_la_vois.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 10.30)
+addTaunt("Mr Sandman [XPSP]", {
+	"prophunters/xpsoundpack/mr_sandman.mp3"
+}, "props", both, {"music", "XPSoundPack"}, 10.72)
+addTaunt("Not the dress! [XPSP]", {
+	"prophunters/xpsoundpack/not_the_dress.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.89)
+addTaunt("Papi Fougasse [XPSP]", {
+	"prophunters/xpsoundpack/papi_fougasse.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 4.13)
+addTaunt("Poke-moi! [XPSP]", {
+	"prophunters/xpsoundpack/poke_moi.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 6.85)
