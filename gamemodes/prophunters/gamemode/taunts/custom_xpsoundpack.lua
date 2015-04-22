@@ -148,7 +148,7 @@ addTaunt("Petite coquine [XPSP]", {
 addTaunt("Cuir Moustache [XPSP]", {
 	"prophunters/xpsoundpack/cuir_moustache.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 1.68)
-addTaunt("Dash vents [XPSP]", {
+addTaunt("Dashing through the vents [XPSP]", {
 	"prophunters/xpsoundpack/dashing_through_the_vents.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 3.58)
 addTaunt("Hello Kiki [XPSP]", {
