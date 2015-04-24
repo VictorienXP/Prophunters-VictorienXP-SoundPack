@@ -169,3 +169,6 @@ addTaunt("Papi Fougasse [XPSP]", {
 addTaunt("Poke-moi! [XPSP]", {
 	"prophunters/xpsoundpack/poke_moi.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 6.85)
+addTaunt("Oreille [XPSP]", {
+	"prophunters/xpsoundpack/oreille.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.89)

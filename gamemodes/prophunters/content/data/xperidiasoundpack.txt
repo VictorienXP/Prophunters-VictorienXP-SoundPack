@@ -75,6 +75,8 @@ numnumnum.mp3 : https://youtu.be/LcfgMRVHfP4
 
 oh_god_thats_not_a_sword.mp3 : It's Dangerous to Go Alone - Starbomb
 
+oreille.mp3 : Metal Gear
+
 oui_je_me_balance.mp3 : François Pérusse
 
 papi_fougasse.mp3 : https://youtu.be/pLVtpMqTUSI
