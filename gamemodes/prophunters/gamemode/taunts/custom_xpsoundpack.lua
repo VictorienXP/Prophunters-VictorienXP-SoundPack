@@ -172,3 +172,6 @@ addTaunt("Poke-moi! [XPSP]", {
 addTaunt("Oreille [XPSP]", {
 	"prophunters/xpsoundpack/oreille.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 1.89)
+addTaunt("Download [XPSP]", {
+	"prophunters/xpsoundpack/download.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 2.95)
