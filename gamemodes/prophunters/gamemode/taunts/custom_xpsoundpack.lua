@@ -138,7 +138,7 @@ addTaunt("Yes! [XPSP]", {
 }, "both", both, {"talk", "XPSoundPack"}, 5.25)
 addTaunt("Philippe ! [XPSP]", {
 	"prophunters/xpsoundpack/philippe.mp3"
-}, "props", both, {"talk", "XPSoundPack"}, 10)
+}, "hunters", both, {"talk", "XPSoundPack"}, 10)
 addTaunt("Plier une barre en fer [XPSP]", {
 	"prophunters/xpsoundpack/plier_une_barre_en_fer.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 4)
@@ -175,3 +175,6 @@ addTaunt("Oreille [XPSP]", {
 addTaunt("Download [XPSP]", {
 	"prophunters/xpsoundpack/download.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 2.95)
+addTaunt("Viens ici [XPSP]", {
+	"prophunters/xpsoundpack/viens_ici.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 3.23)
