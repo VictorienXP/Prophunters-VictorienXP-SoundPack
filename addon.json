@@ -9,6 +9,7 @@
 		"*.svn*",
 		"*.git*",
 		"desktop.ini",
-		"Thumbs.db"
+		"Thumbs.db",
+		"README.md"
 	]
 }
