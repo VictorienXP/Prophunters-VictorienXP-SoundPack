@@ -5,11 +5,15 @@ Sounds/musics used:
 
 3615_sado_mario.mp3 : https://www.youtube.com/watch?v=6jTjJohNDM4
 
+all_your_base_are_belong_to_us.mp3 : Zero Wing
+
 amazing_horse.mp3 : http://www.lookatmyhorsemyhorseisamazing.com/
 
 cacachezpaul.mp3 : https://www.youtube.com/watch?v=sdBYEHt65M4
 
 can't_killean_the_zilean.mp3 : Oh My Little Baby Boy - Babe
+
+caramelldansen.mp3 : Caramelldansen
 
 c'est_de_la_merde_ta_magie.mp3 : Episode 4 http://www.penofchaos.com/warham/download/
 
@@ -83,6 +87,8 @@ oui_je_me_balance.mp3 : François Pérusse
 
 papi_fougasse.mp3 : https://youtu.be/pLVtpMqTUSI
 
+pee_pee.mp3 : https://youtu.be/8amtq5aXRL8
+
 penis&yaourt.mp3 : https://www.youtube.com/watch?v=CjsPSeupj2w
 
 petitecoquine.mp3 : Supergirl
@@ -93,11 +99,19 @@ pinkfluffy_unicorn.mp3 : http://youtu.be/eWM2joNb9NE
 
 plier_une_barre_en_fer.mp3 : https://youtu.be/M_bUBQ-gzhU
 
+polpot.mp3 : https://youtu.be/-XN3aZ3ZKWY
+
 plume_dtc.mp3 : https://youtu.be/TTiPZeCkiBc
+
+plus_de_pièges.mp3 : https://youtu.be/d7h1K3f3ss4
 
 poke_moi.mp3 : In some Les Kassos endings https://www.youtube.com/user/LesKassosCanal/videos | http://www.canalplus.fr/c-humour/c-les-kassos/pid6737-les-episodes.html
 
 pouce_rouge.mp3 : http://youtu.be/ViFuFJf5jSc
+
+punition.mp3 : https://youtu.be/1mmVr2Tem60
+
+sandy.mp3 : Kassos episode 28
 
 saxo.mp3 : SunStroke Project & Olia Tira - Run Away (Moldova)
 
@@ -114,6 +128,8 @@ viens_ici.mp3 : Hitman le Cobra
 what_is_love.mp3 : What Is Love - Haddaway
 
 whee!.mp3 : http://youtu.be/tymI71r7Zp4
+
+wilhelm_scream.mp3 : Wilhelm Scream
 
 wingardium_leviosa_hermione.mp3 : http://leviosaaa.com/
 

@@ -178,3 +178,27 @@ addTaunt("Download [XPSP]", {
 addTaunt("Viens ici [XPSP]", {
 	"prophunters/xpsoundpack/viens_ici.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 3.23)
+addTaunt("Zero Wind [XPSP]", {
+	"prophunters/xpsoundpack/all_your_base_are_belong_to_us.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.86)
+addTaunt("Caramelldansen [XPSP]", {
+	"prophunters/xpsoundpack/caramelldansen.mp3"
+}, "props", both, {"music", "XPSoundPack"}, 5.46)
+addTaunt("Pee Pee [XPSP]", {
+	"prophunters/xpsoundpack/pee_pee.mp3"
+}, "props", both, {"music", "XPSoundPack"}, 5.86)
+addTaunt("Pol Pot [XPSP]", {
+	"prophunters/xpsoundpack/polpot.mp3"
+}, "props", both, {"music", "XPSoundPack"}, 6.25)
+addTaunt("Plus de Pièges [XPSP]", {
+	"prophunters/xpsoundpack/plus_de_pièges.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 4.29)
+addTaunt("Punition [XPSP]", {
+	"prophunters/xpsoundpack/punition.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 2.43)
+addTaunt("Sandy [XPSP]", {
+	"prophunters/xpsoundpack/sandy.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 12.39)
+addTaunt("Wilhelm Scream [XPSP]", {
+	"prophunters/xpsoundpack/wilhelm_scream.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 1.10)
