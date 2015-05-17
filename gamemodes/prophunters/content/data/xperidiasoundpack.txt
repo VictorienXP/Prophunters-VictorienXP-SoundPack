@@ -103,7 +103,7 @@ polpot.mp3 : https://youtu.be/-XN3aZ3ZKWY
 
 plume_dtc.mp3 : https://youtu.be/TTiPZeCkiBc
 
-plus_de_pièges.mp3 : https://youtu.be/d7h1K3f3ss4
+plus_de_pieges.mp3 : https://youtu.be/d7h1K3f3ss4
 
 poke_moi.mp3 : In some Les Kassos endings https://www.youtube.com/user/LesKassosCanal/videos | http://www.canalplus.fr/c-humour/c-les-kassos/pid6737-les-episodes.html
 

@@ -191,7 +191,7 @@ addTaunt("Pol Pot [XPSP]", {
 	"prophunters/xpsoundpack/polpot.mp3"
 }, "props", both, {"music", "XPSoundPack"}, 6.25)
 addTaunt("Plus de Pièges [XPSP]", {
-	"prophunters/xpsoundpack/plus_de_pièges.mp3"
+	"prophunters/xpsoundpack/plus_de_pieges.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 4.29)
 addTaunt("Punition [XPSP]", {
 	"prophunters/xpsoundpack/punition.mp3"
