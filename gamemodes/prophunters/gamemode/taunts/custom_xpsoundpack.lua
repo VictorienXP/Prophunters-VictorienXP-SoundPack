@@ -202,3 +202,9 @@ addTaunt("Sandy [XPSP]", {
 addTaunt("Wilhelm Scream [XPSP]", {
 	"prophunters/xpsoundpack/wilhelm_scream.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 1.10)
+addTaunt("Ah! [XPSP]", {
+	"prophunters/xpsoundpack/ah.mp3"
+}, "props", both, {"talk", "XPSoundPack"}, 0.4)
+addTaunt("Loading (Crash Bash) [XPSP]", {
+	"prophunters/xpsoundpack/loading.mp3"
+}, "props", both, {"music", "XPSoundPack"}, 13.83)
