@@ -206,5 +206,5 @@ addTaunt("Ah! [XPSP]", {
 	"prophunters/xpsoundpack/ah.mp3"
 }, "props", both, {"talk", "XPSoundPack"}, 0.4)
 addTaunt("Loading (Crash Bash) [XPSP]", {
-	"prophunters/xpsoundpack/loading.mp3"
+	"prophunters/xpsoundpack/loading.wav"
 }, "props", both, {"music", "XPSoundPack"}, 13.83)
