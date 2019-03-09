@@ -1,4 +1,4 @@
-﻿# Prophunters VictorienXP's SoundPack
+﻿# VictorienXP's Prophunters TauntPack
 
 This is an addon for Prophunters gamemode on Garry's Mod to add taunts...
 
