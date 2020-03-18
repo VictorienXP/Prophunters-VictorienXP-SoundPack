@@ -208,3 +208,63 @@ addTaunt("Ah!", {
 addTaunt("Loading (Crash Bash)", {
 	"prophunters/victorienxp/loading.wav"
 }, "props", both, {"music", "VictorienXP"}, 13.83)
+addTaunt("Croutes", {
+	"prophunters/victorienxp/croutes.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 13.5)
+addTaunt("Confession sur Sonic", {
+	"prophunters/victorienxp/sonic.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 10.16)
+addTaunt("Je compte me donner la mort dans les plus bref delais", {
+	"prophunters/victorienxp/je_compte_me_donner_la_mort_dans_les_plus_bref_delais.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 4.16)
+addTaunt("Tu veux savoir si ton ex t'aime encore?", {
+	"prophunters/victorienxp/ex.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 22.5)
+addTaunt("Positiver", {
+	"prophunters/victorienxp/positiver.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 11.6)
+addTaunt("Pedro", {
+	"prophunters/victorienxp/pedro.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 8.9)
+addTaunt("Jacques", {
+	"prophunters/victorienxp/jacques.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 6.16)
+addTaunt("Et ça les enfants c'est...", {
+	"prophunters/victorienxp/2girls1cup.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 3.9)
+addTaunt("SIDA", {
+	"prophunters/victorienxp/sida.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 7)
+addTaunt("BONSOIR", {
+	"prophunters/victorienxp/bonsoir.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 0.7)
+addTaunt("Bernard", {
+	"prophunters/victorienxp/bernard.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 5.3)
+addTaunt("My Little Pony...", {
+	"prophunters/victorienxp/mlpp.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 7.4)
+addTaunt("Salut petit con", {
+	"prophunters/victorienxp/salut_petit_con.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 1.9)
+addTaunt("Stephanie", {
+	"prophunters/victorienxp/stephanie.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 2.8)
+addTaunt("Stephanie ♪", {
+	"prophunters/victorienxp/stephanierap.mp3"
+}, "props", both, {"talk", "music", "VictorienXP"}, 5.3)
+addTaunt("Stephanie change de couleur?", {
+	"prophunters/victorienxp/stephanie_change_de_couleur.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 12.4)
+addTaunt("Ecrasé = mort ♪", {
+	"prophunters/victorienxp/ecrasemort.mp3"
+}, "props", both, {"talk", "music", "VictorienXP"}, 8.3)
+addTaunt("Non pas démonter Stephanie", {
+	"prophunters/victorienxp/non_pas_demonte_stephanie.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 2.8)
+addTaunt("AVC", {
+	"prophunters/victorienxp/avc.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 6.2)
+addTaunt("Benzaie: Rendez moi mon innocence...", {
+	"prophunters/victorienxp/benzaie_furry.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 4.3)
