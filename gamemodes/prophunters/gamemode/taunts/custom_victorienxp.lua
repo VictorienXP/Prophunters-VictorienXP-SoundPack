@@ -271,3 +271,6 @@ addTaunt("Benzaie: Rendez moi mon innocence...", {
 addTaunt("C'est Honteux !", {
 	"prophunters/victorienxp/c'est_honteux.wav"
 }, "props", both, {"talk", "VictorienXP"},)
+addTaunt("Bonne nuit les tipeu : Chanson Nounours", {
+	"prophunters/victorienxp/chanson_nounours.wav"
+}, "props", both, {"talk", "VictorienXP"},)
