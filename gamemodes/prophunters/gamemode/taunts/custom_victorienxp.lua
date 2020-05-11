@@ -268,3 +268,6 @@ addTaunt("AVC", {
 addTaunt("Benzaie: Rendez moi mon innocence...", {
 	"prophunters/victorienxp/benzaie_furry.mp3"
 }, "props", both, {"talk", "VictorienXP"}, 4.3)
+addTaunt("C'est Honteux !", {
+	"prophunters/victorienxp/c'est_honteux.wav"
+}, "props", both, {"talk", "VictorienXP"},)
