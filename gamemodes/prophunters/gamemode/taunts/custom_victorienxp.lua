@@ -274,3 +274,6 @@ addTaunt("C'est Honteux !", {
 addTaunt("Bonne nuit les tipeu : Chanson Nounours", {
 	"prophunters/victorienxp/chanson_nounours.wav"
 }, "props", both, {"talk", "VictorienXP"},)
+addTaunt("Bonne nuit les tipeu : Mange tes morts !", {
+	"prophunters/victorienxp/mange_tes_morts.wav"
+}, "props", both, {"talk", "VictorienXP"},)
