@@ -282,4 +282,4 @@ addTaunt("Bonne nuit les tipeu : Tien Salope !", {
 }, "props", both, {"talk", "VictorienXP"})
 addTaunt("Message à carractére informatif : La chanson de l'ordinateur", {
 	"prophunters/victorienxp/la_chanson_de_l'ordinateur.mp3"
-}, "props", both, {"talk", "VictorienXP"}, 1.44)
+}, "props", both, {"talk", "VictorienXP"}, 32)
