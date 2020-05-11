@@ -280,6 +280,6 @@ addTaunt("Bonne nuit les tipeu : Mange tes morts !", {
 addTaunt("Bonne nuit les tipeu : Tien Salope !", {
 	"prophunters/victorienxp/tien_salope.wav"
 }, "props", both, {"talk", "VictorienXP"})
-addTaunt("Message à carractére informatif : La chanson de l'ordinateur", {
+addTaunt("La chanson de l'ordinateur", {
 	"prophunters/victorienxp/la_chanson_de_l'ordinateur.mp3"
 }, "props", both, {"talk", "music", "VictorienXP"}, 32)
