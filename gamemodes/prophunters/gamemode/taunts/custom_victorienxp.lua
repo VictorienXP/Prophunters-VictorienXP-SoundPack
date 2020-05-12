@@ -283,3 +283,6 @@ addTaunt("Bonne nuit les tipeu : Tien Salope !", {
 addTaunt("La chanson de l'ordinateur", {
 	"prophunters/victorienxp/la_chanson_de_l'ordinateur.mp3"
 }, "props", both, {"talk", "music", "VictorienXP"}, 32)
+addTaunt("Bim Bam Boum", {
+	"prophunters/victorienxp/biem_bam_boum.mp3"
+}, "props", both, {"talk", "music", "VictorienXP"}, 9)
