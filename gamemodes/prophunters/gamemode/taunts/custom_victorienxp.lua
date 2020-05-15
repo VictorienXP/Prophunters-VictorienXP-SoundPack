@@ -286,3 +286,6 @@ addTaunt("La chanson de l'ordinateur", {
 addTaunt("Bim Bam Boum", {
 	"prophunters/victorienxp/biem_bam_boum.mp3"
 }, "props", both, {"talk", "music", "VictorienXP"}, 9)
+addTaunt("Objection !", {
+	"prophunters/victorienxp/objection.mp3"
+}, "props", both, {"talk", "VictorienXP"}, 2)
